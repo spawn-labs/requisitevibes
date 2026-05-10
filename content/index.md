@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Requisite Vibes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started. I'll probably just not do that though.
+**What will be here**? Tough to say...
