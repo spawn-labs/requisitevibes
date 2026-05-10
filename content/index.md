@@ -1,5 +1,5 @@
 ---
-title: Requisite Vibes
+title: What it is...
 ---
 
 **What will be here**? Tough to say...
